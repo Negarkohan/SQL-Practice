@@ -1,31 +1,35 @@
-# SQL Practice & Projects
+SQL Practice & Projects
 
-این ریپازیتوری شامل تمرین‌ها و پروژه‌های شخصی من در SQL است.  
-هدف از این ریپو، مستندسازی مسیر یادگیری من در حوزه **Database & Business Intelligence** است.  
+This repository contains my personal SQL exercises and projects.
+The main goal of this repo is to document my learning journey in Databases & Business Intelligence.
 
----
+📂 Repository Structure
 
-## 📂 ساختار ریپازیتوری
-- **01-Basics** → تمرین‌های مقدماتی (SELECT, WHERE, JOINs)
-- **02-Intermediate** → تمرین‌های سطح متوسط (GROUP BY, Subqueries, CTE)
-- **03-Advanced** → مفاهیم پیشرفته (Window Functions, Performance Tuning)
-- **04-Projects** → پروژه‌های واقعی مثل:
-  - بک‌آپ اتوماتیک دیتابیس
-  - کوئری‌های داشبورد فروش
-  - سیستم ارزیابی منابع انسانی  
+01-Basics → Beginner exercises (SELECT, WHERE, JOINs)
 
----
+02-Intermediate → Intermediate exercises (GROUP BY, Subqueries, CTEs)
 
-## 📌 پروژه‌ها
-### 🗂 Backup Job (SQL Server)
-این پروژه یک Job در **SQL Server Agent** ایجاد می‌کند که هر روز ساعت 2 بامداد از دیتابیس بک‌آپ می‌گیرد.  
+03-Advanced → Advanced topics (Window Functions, Performance Tuning)
 
-ویژگی‌ها:
-- اجرای خودکار روزانه  
-- سه بار تلاش مجدد در صورت خطا  
-- ذخیره‌ی فایل بکاپ در مسیر مشخص  
-- قابل استفاده برای هر دیتابیس با تغییر نام و مسیر  
+04-Projects → Real-world projects, including:
 
----
+Automated database backup
 
-✍🏻 نوشته‌ها و کدها صرفاً برای تمرین و یادگیری هستند.
+Sales dashboard queries
+
+Human resources evaluation system
+
+📌 Sample Project
+🗂 Backup Job (SQL Server)
+
+This project creates a SQL Server Agent Job that automatically backs up a database every day at 2 AM.
+
+Features:
+
+Daily automatic execution
+
+Retries up to 3 times in case of failure
+
+Saves backup files to a specified path
+
+Can be used for any database by updating the name and path
