@@ -1,5 +1,5 @@
 /*
-    Author: Negar Kohnesal
+    Author: Negar Kohansal
     Description: Useful views for AdventureWorks2019 database
     Created for portfolio and GitHub showcase
 */
