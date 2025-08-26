@@ -29,8 +29,6 @@ END;
 GO
 
 -- =============================================
--- Author:        Negar Kohnesal
--- Create date:   2025-08-26
 -- Description:   Returns current stock quantity for all products
 -- =============================================
 CREATE OR ALTER PROCEDURE dbo.usp_GetProductInventory
@@ -51,8 +49,6 @@ END;
 GO
 
 -- =============================================
--- Author:        Negar Kohansal
--- Create date:   2025-08-26
 -- Description:   Returns top N customers by total sales amount in a given date range
 -- =============================================
 CREATE OR ALTER PROCEDURE dbo.usp_GetTopCustomers
