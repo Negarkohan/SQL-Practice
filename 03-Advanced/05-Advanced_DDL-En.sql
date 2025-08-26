@@ -1,5 +1,5 @@
 -- AdventureWorks2019 SQL Examples - Advanced DDL
--- Author: Negar Kohnesal
+-- Author: Negar Kohansal
 -- Description: Sample SQL queries for altering and dropping tables/columns
 
 ----------------------------------------------------------
