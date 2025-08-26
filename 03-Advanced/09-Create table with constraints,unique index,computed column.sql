@@ -1,6 +1,6 @@
 /*
 ================================================================================
-Author:        Negar Kohnesal
+Author:        Negar Kohansal
 Description:   Create dbo.Customer table with constraints, unique index, and 
                computed column for age.
 Target DB:     SQL Server 2019 (AdventureWorks2019 compatible)
