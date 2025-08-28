@@ -1,5 +1,5 @@
 /*
-    Author: Negar Kohnesal
+    Author: Negar Kohansal
     This script demonstrates common SQL Server window functions
     using the AdventureWorks2019 sample database.
 */
